@@ -48,6 +48,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijetarita98&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
 </div>
 
+<div align="center">
+  <img src="https://herokuapp.com" width="100%" alt="GitHub Streak" />
+</div>
+
 ---
 
 ### 🐍 ~$ ./run_contribution_snake.exe
