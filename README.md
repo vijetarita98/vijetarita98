@@ -1,7 +1,7 @@
 <!-- TERMINAL TOP HEADER BANNER -->
 <div align="center">
   <h1>Hey there! I'm Vijeta 👋</h1>
-  <p><em>2nd Year Materials Engineering @ IIT Jodhpur | Software & AI Enthusiast</em></p>
+  <p><em>2nd Year Btech student @ IIT Jodhpur | Software & AI Enthusiast</em></p>
 
   <a href="mailto:vijetarita98@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -17,7 +17,7 @@
 ---
 
 ### 🖥️ ~$ cat about_me.txt
-- 🎓 **Identity:** 2nd Year Undergraduate, Materials Engineering @ **IIT Jodhpur**
+- 🎓 **Identity:** 2nd Year Undergraduate,Btech @ **IIT Jodhpur**
 - 🚀 **Passions:** Software Development & Machine Learning
 - 💡 **Interests:** Building clean full-stack systems and exploring intelligent data architectures
 
